@@ -1,10 +1,12 @@
 export default class newmobilenetv2Classification {
     constructor() {    
         this.label = ['Amazon',
-             'Axis Bank',
+             'American Bank',
+		'Axis Bank',
              'Bandhan Bank',
              'bigbasket',
-             'Bank of Baroda',
+             'Bank of America',
+		      'Bank of Baroda',
              'Bank of India',
              'Bank of Maharashtra',
              'Bse',
@@ -12,7 +14,8 @@ export default class newmobilenetv2Classification {
              'Central Bank of India',
              'cdsl',
              'Citibank',
-             'Dropbox',
+             'CitibankUS',
+		'Dropbox',
              'etrade',
              'Facebook',
              'Federal Bank',
@@ -29,6 +32,7 @@ export default class newmobilenetv2Classification {
              'incometax',
              'IndusInd Bank',
              'Indian Overseas Bank',
+             'JP Morgan',		
              'Kotak Bank',
              'LinkedIn',
              'NSDL',
@@ -45,7 +49,10 @@ export default class newmobilenetv2Classification {
              'Uber',
              'UCO Bank',
              'Union Bank of India',
+		     
              'Upstox',
+		
+             'US Bank',
              'Whatsapp',
              'Yes Bank',
              'Zerodha',
