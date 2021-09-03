@@ -1,4 +1,4 @@
-export default class mobilenetv2Classification {
+export default class mobilenetv2Classification55 {
     constructor() {    
         this.label = ['Amazon',
             'American Bank',
@@ -331,7 +331,7 @@ export default class mobilenetv2Classification {
     }
 
 }
-mobilenetv2Classification.dependencies = [
+mobilenetv2Classification55.dependencies = [
     "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.6.0/dist/tf.min.js",
 ]
-mobilenetv2Classification.model = ROOT_DIR + "/mobilenetv2Classification55/model/model.json"
+mobilenetv2Classification55.model = ROOT_DIR + "/mobilenetv2Classification55/model/model.json"
